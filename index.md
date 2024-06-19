@@ -4,8 +4,6 @@
 #### Esto es un H4
 ##### Esto es un H5
 ###### Y esto es un H6
-
-
-
-
 Esto es un ejemplo de H con Markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
